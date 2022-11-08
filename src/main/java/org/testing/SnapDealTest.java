@@ -33,7 +33,7 @@ public class SnapDealTest extends BaseClass{
 	
 	@AfterClass
 	public static void afterClass() {
-		quit();
+		//quit();
 		System.out.println("after class");
 	}
 	
