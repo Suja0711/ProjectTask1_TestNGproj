@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="9413" started-at="2022-11-08T06:20:45Z" finished-at="2022-11-08T06:20:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="9413" started-at="2022-11-08T06:20:45Z" finished-at="2022-11-08T06:20:55Z">
+      <class name="org.testing.SnapDealTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="beforeClass" is-config="true" duration-ms="1928" started-at="2022-11-08T06:20:45Z" finished-at="2022-11-08T06:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="test1" duration-ms="4905" started-at="2022-11-08T06:20:47Z" data-provider="testsite" finished-at="2022-11-08T06:20:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.snapdeal.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[redmi 9 mobile phone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2022-11-08T06:20:47Z" finished-at="2022-11-08T06:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="aftrMethod" is-config="true" duration-ms="1" started-at="2022-11-08T06:20:52Z" finished-at="2022-11-08T06:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2022-11-08T06:20:52Z" finished-at="2022-11-08T06:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="test2" duration-ms="3" started-at="2022-11-08T06:20:52Z" finished-at="2022-11-08T06:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="aftrMethod" is-config="true" duration-ms="0" started-at="2022-11-08T06:20:52Z" finished-at="2022-11-08T06:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2022-11-08T06:20:52Z" finished-at="2022-11-08T06:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="test3" duration-ms="1880" started-at="2022-11-08T06:20:52Z" finished-at="2022-11-08T06:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="aftrMethod()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="aftrMethod" is-config="true" duration-ms="0" started-at="2022-11-08T06:20:54Z" finished-at="2022-11-08T06:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftrMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:org.testing.SnapDealTest@73ad2d6]" name="afterClass" is-config="true" duration-ms="665" started-at="2022-11-08T06:20:54Z" finished-at="2022-11-08T06:20:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- org.testing.SnapDealTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
