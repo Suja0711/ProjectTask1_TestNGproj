@@ -68,7 +68,7 @@ public class SnapDealTest extends BaseClass{
 			productPriceData.put(pdList.get(i).getText(), pdPrice.get(i).getText());
 		}
 		System.out.println("Product Price - "+pdPrice.size());
-		System.out.println(" --------PRODUCTS WITH PRICE-----------");
+		System.out.println(" <--------PRODUCTS WITH PRICE----------->");
 		int temp=0;
 		for(WebElement ele:pdPrice) {
 			temp = Integer.parseInt(ele.getText().substring(4));
